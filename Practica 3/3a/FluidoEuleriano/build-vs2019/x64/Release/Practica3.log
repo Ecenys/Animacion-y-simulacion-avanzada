@@ -1,0 +1,42 @@
+﻿  Fluid2Exercise.cpp
+..\src\Fluid2Exercise.cpp(116,31): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(117,35): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(137,31): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(138,35): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(152,31): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(153,35): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(178,36): warning C4018: '<=': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(179,40): warning C4018: '<=': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(180,27): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(182,32): warning C4018: '>': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(187,36): warning C4018: '<=': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(188,40): warning C4018: '<=': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(191,36): warning C4018: '<=': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(192,40): warning C4018: '<=': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(220,31): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(221,35): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(230,31): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(231,35): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(253,31): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(257,31): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(263,31): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(264,35): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(271,31): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(272,35): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(279,27): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(290,27): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(309,31): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(310,35): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(315,31): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(316,35): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(322,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\FX505\Desktop\urjc\2 cuatrimestre\Animacion y simulacion avanzada\Practica 3\3a\FluidoEuleriano\src\Numeric\SparseMatrix.h(231,1): warning C4267: '=': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\FX505\Desktop\urjc\2 cuatrimestre\Animacion y simulacion avanzada\Practica 3\3a\FluidoEuleriano\src\Numeric\SparseMatrix.h(227): message : al compilar la función del miembro clase plantilla "void asa::FixedSparseMatrix<double>::construct_from_matrix(const asa::SparseMatrix<double> &)"
+C:\Users\FX505\Desktop\urjc\2 cuatrimestre\Animacion y simulacion avanzada\Practica 3\3a\FluidoEuleriano\src\Numeric/PCGSolver.h(292): message : Vea la referencia a la creación de una instancia de la función plantilla "void asa::FixedSparseMatrix<double>::construct_from_matrix(const asa::SparseMatrix<double> &)" que se está compilando
+C:\Users\FX505\Desktop\urjc\2 cuatrimestre\Animacion y simulacion avanzada\Practica 3\3a\FluidoEuleriano\src\Numeric/PCGSolver.h(319): message : Vea la referencia a la creación de una instancia de clase plantilla "asa::FixedSparseMatrix<double>" que se está compilando
+..\src\Fluid2Exercise.cpp(297): message : Vea la referencia a la creación de una instancia de clase plantilla "asa::PCGSolver<double>" que se está compilando
+  Practica3.vcxproj -> C:\Users\FX505\Desktop\urjc\2 cuatrimestre\Animacion y simulacion avanzada\Practica 3\3a\FluidoEuleriano\build-vs2019\x64\Release\Practica3.exe

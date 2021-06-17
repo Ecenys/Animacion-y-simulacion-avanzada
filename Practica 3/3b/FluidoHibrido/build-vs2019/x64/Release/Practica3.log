@@ -1,0 +1,50 @@
+﻿  Fluid2Exercise.cpp
+..\src\Fluid2Exercise.cpp(120,22): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(120,58): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(126,30): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(126,66): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(132,22): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(132,66): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(138,30): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(138,74): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(148,22): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(148,58): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(154,30): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(154,66): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(160,22): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(160,66): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(166,30): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(166,74): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(188,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+..\src\Fluid2Exercise.cpp(187,20): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+..\src\Fluid2Exercise.cpp(190,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+..\src\Fluid2Exercise.cpp(189,20): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+..\src\Fluid2Exercise.cpp(223,54): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+..\src\Fluid2Exercise.cpp(245,27): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(343,31): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(344,35): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(393,27): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(448,42): warning C4018: '<=': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(449,46): warning C4018: '<=': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(465,42): warning C4018: '<=': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(466,46): warning C4018: '<=': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(499,54): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+..\src\Fluid2Exercise.cpp(499,33): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+..\src\Fluid2Exercise.cpp(502,23): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(503,27): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(516,23): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(517,27): warning C4018: '<': no coinciden signed/unsigned
+..\src\Fluid2Exercise.cpp(541,54): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+..\src\Fluid2Exercise.cpp(541,33): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+..\src\Fluid2Exercise.cpp(654,85): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+..\src\Fluid2Exercise.cpp(654,100): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\FX505\Desktop\urjc\2 cuatrimestre\Animacion y simulacion avanzada\Practica 3\3b\FluidoHibrido\src\Numeric\SparseMatrix.h(231,1): warning C4267: '=': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\FX505\Desktop\urjc\2 cuatrimestre\Animacion y simulacion avanzada\Practica 3\3b\FluidoHibrido\src\Numeric\SparseMatrix.h(227): message : al compilar la función del miembro clase plantilla "void asa::FixedSparseMatrix<double>::construct_from_matrix(const asa::SparseMatrix<double> &)"
+C:\Users\FX505\Desktop\urjc\2 cuatrimestre\Animacion y simulacion avanzada\Practica 3\3b\FluidoHibrido\src\Numeric/PCGSolver.h(292): message : Vea la referencia a la creación de una instancia de la función plantilla "void asa::FixedSparseMatrix<double>::construct_from_matrix(const asa::SparseMatrix<double> &)" que se está compilando
+C:\Users\FX505\Desktop\urjc\2 cuatrimestre\Animacion y simulacion avanzada\Practica 3\3b\FluidoHibrido\src\Numeric/PCGSolver.h(319): message : Vea la referencia a la creación de una instancia de clase plantilla "asa::FixedSparseMatrix<double>" que se está compilando
+..\src\Fluid2Exercise.cpp(603): message : Vea la referencia a la creación de una instancia de clase plantilla "asa::PCGSolver<double>" que se está compilando
+  Practica3.vcxproj -> C:\Users\FX505\Desktop\urjc\2 cuatrimestre\Animacion y simulacion avanzada\Practica 3\3b\FluidoHibrido\build-vs2019\x64\Release\Practica3.exe
